@@ -28,7 +28,7 @@ const properties = [
         name: "Beachfront Condo",
         location: "Miami",
         price: "$300/night",
-        image: "https://www.palmbeachdailynews.com/gcdn/presto/2023/02/28/NPBD/a1f122ea-fc11-4731-9887-06f207e6617c-PBN_Balc_502N_3100_S_Ocen_Blvd_LivingProof.jpg?width=700&height=467&fit=crop&format=pjpg&auto=webp",
+        image: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/564899229.jpg?k=7c8fafd04281e6be80de8c5eeba3d0152663c857eaa3a9b100516a97d0b9076b&o=&hp=1",
     },
     {
         name: "Mountain Lodge",
