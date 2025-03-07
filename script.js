@@ -28,7 +28,7 @@ const properties = [
         name: "Beachfront Condo",
         location: "Miami",
         price: "$300/night",
-        image: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467142052.jpg?k=2e72bcbf5dc5a08ce0dba459ee758f48201790901352a28920f466cf32ad2c57&o=&hp=1"
+        image: "https://dynamic-media.tacdn.com/media/vr-splice-j/11/f4/1f/79.jpg?w=800&h=-1"
     },
     {
         name: "Mountain Lodge",
